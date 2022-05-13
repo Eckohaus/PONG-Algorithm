@@ -22,4 +22,5 @@
     ####   input_dims=(2, 2, 2), output_dims=(2, 2, 2))
 
 
-###### W.R.I-T.T.E.N_In_P.O.I.S.S.O.N : Theorem
+###### W.R.I-T.T.E.N_In_P.O.I.S.S.O.N : [Theorem](https://en.wikipedia.org/wiki/Poisson_distribution) : Reference : [IBM : CLassical Computer Version (https://qiskit.org/documentation/tutorials/circuits/1_getting_started_with_qiskit.html) 
+
