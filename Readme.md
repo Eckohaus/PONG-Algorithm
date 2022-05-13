@@ -14,8 +14,5 @@
 ###### Repository Brief : Re:define a QCD Quantum computer compiler : Written in a FORM or type, of LANGUAGE. : 
 #### Kinematics for Space and Time : Via [Muon Tau Decay : Within Ohm's Law](https://www.sciencedirect.com/topics/mathematics/caputo-derivative#:~:text=The%20Caputo%20derivative%20is%20of,equation%20as%20having%20%E2%80%9Cmemory.%E2%80%9D) : Would describe a classical system. 
 
-###### Integrating the planar of {Time} becomes highly abstracted. Within the scattering effects. To take a fragment of time, can be infitessimally small. And yet within that frame of reference infinitely long. Nucleotide functions can create hyperbolic wave functions of self referenced scattering at multiplexed points within time. For example : A singular organic rerence becomes many of the same instances. Within a scene so to speak. But becomes subject to the observer effect. 
-
-##### And this implies : Where we might observe byproducts of relativistic effects. I:E Bose eisen features within QCD take place. Denoted by relativistic effects beyond  the internet or the point of origin.
-
-
+###### Integrating the planar of {Time} becomes highly abstracted. As time itself is equal to matter.
+All other Nth defined dimensions are a quantization of Ohm's law which describes Muon Tau decay. 
