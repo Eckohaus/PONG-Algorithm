@@ -25,7 +25,7 @@
 
 ###### W.R.I-T.T.E.N_In_P.O.I.S.S.O.N : [Theorem](https://arxiv.org/pdf/1607.06016.pdf) : 
 
-###### Quantum Quantization Games :  [Caputo derivatives looking at classical thermodynamics](https://www.sciencedirect.com/topics/mathematics/caputo-derivative#:~:text=The%20Caputo%20derivative%20is%20of,equation%20as%20having%20%E2%80%9Cmemory.%E2%80%9D) : 
+###### Space and Time : Quantum Quantization Games : Which disrupt [Ohm's Law](https://www.sciencedirect.com/topics/mathematics/caputo-derivative#:~:text=The%20Caputo%20derivative%20is%20of,equation%20as%20having%20%E2%80%9Cmemory.%E2%80%9D) : 
 
 ###### A current Reference : [IBM : CLassical Computer Version](https://qiskit.org/documentation/tutorials/circuits/1_getting_started_with_qiskit.html) 
 
