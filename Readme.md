@@ -18,7 +18,7 @@
 
 ###### PONG Algorithm for: { Lambda_Field : Point_to_Point_Calculations }
 ###### W.R.I-T.T.E.N_In_P.O.I.S.S.O.N : [Theorem](https://arxiv.org/pdf/1607.06016.pdf) : 
-###### Space and Time : Quantum Quantization Games : Which disrupt [Ohm's Law](https://www.sciencedirect.com/topics/mathematics/caputo-derivative#:~:text=The%20Caputo%20derivative%20is%20of,equation%20as%20having%20%E2%80%9Cmemory.%E2%80%9D) : 
+###### Kinematics combining Space and Time : Quantum Quantization Games : Which disrupt [Ohm's Law](https://www.sciencedirect.com/topics/mathematics/caputo-derivative#:~:text=The%20Caputo%20derivative%20is%20of,equation%20as%20having%20%E2%80%9Cmemory.%E2%80%9D) : 
 ###### EXAMPLE : 
     
     ####   input_dims=(2, 2, 2), output_dims=(2, 2, 2))
