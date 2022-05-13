@@ -24,7 +24,10 @@
 
 
 ###### W.R.I-T.T.E.N_In_P.O.I.S.S.O.N : [Theorem](https://arxiv.org/pdf/1607.06016.pdf) : 
-###### Reference : [IBM : CLassical Computer Version](https://qiskit.org/documentation/tutorials/circuits/1_getting_started_with_qiskit.html) 
+
+###### Quantum Quantization Games : [Caputo derivatives looking at classical thermodynamics ](The Caputo derivative is of use to modeling phenomena which takes account of interactions within the past and also problems with nonlocal properties. In this sense, one can think of the equation as having “memory.) : 
+
+###### A current Reference : [IBM : CLassical Computer Version](https://qiskit.org/documentation/tutorials/circuits/1_getting_started_with_qiskit.html) 
 
 
 
