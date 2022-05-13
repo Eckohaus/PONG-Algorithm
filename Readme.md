@@ -15,4 +15,4 @@
 #### Kinematics for Space and Time : Via [Muon Tau Decay : Within Ohm's Law](https://www.sciencedirect.com/topics/mathematics/caputo-derivative#:~:text=The%20Caputo%20derivative%20is%20of,equation%20as%20having%20%E2%80%9Cmemory.%E2%80%9D) : Would describe a classical system. 
 
 ###### Integrating the planar of {Time} becomes highly abstracted. As time itself is equal to matter.
-All other Nth defined dimensions are a quantization of Ohm's law which describes Muon Tau decay. 
+###### All other Nth defined dimensions are a quantization of Ohm's law which describes Muon Tau decay within the electro magnetic spectrum : . 
