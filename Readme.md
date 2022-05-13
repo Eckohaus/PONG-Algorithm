@@ -11,11 +11,12 @@
 ##### ####### In theory, this establishes a plausible way to define or describe ;
 
 ##### * Data type and sets for Indexes of refraction : within Multiple planars of space & time. 
-
+---
 ###### Repository Brief : Describe or define a QCD Quantum computer compiler : Written in a FORM or type, of LANGUAGE. : 
+---
+---
 
-
-###### PONG Algorithm for: COMMODORE QCD.64 : { lAMBDA_FIELD_Point_to_Point_Calculations } W.R.I-T.T.E.N_In_P.O.I.S.S.O.N
+###### PONG Algorithm for: IBM : COMMODORE QCD.64 : { lAMBDA_FIELD_Point_to_Point_Calculations } W.R.I-T.T.E.N_In_P.O.I.S.S.O.N
 
 ###### EXAMPLE : 
     
