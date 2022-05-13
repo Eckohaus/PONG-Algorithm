@@ -16,3 +16,7 @@
 
 
 ###### PONG Algorithm for: COMMODORE QCD.64 : { lAMBDA_FIELD_Point_to_Point_Calculations } W.R.I-T.T.E.N_In_P.O.I.S.S.O.N
+
+###### EXAMPLE : 
+    
+    ####   input_dims=(2, 2, 2), output_dims=(2, 2, 2))
