@@ -12,7 +12,7 @@
     ####   input_dims=(2, 2, 2), output_dims=(2, 2, 2))
 
 ###### Repository Brief : Re:define a QCD Quantum computer compiler : Written in a FORM or type, of LANGUAGE. : 
-###### Generating Kinematics combining both Space and Time : Via [Ohm's Law](https://www.sciencedirect.com/topics/mathematics/caputo-derivative#:~:text=The%20Caputo%20derivative%20is%20of,equation%20as%20having%20%E2%80%9Cmemory.%E2%80%9D) : 
+###### Kinematics for Space and Time : Via [Muon Tau Decay within Ohm's Law](https://www.sciencedirect.com/topics/mathematics/caputo-derivative#:~:text=The%20Caputo%20derivative%20is%20of,equation%20as%20having%20%E2%80%9Cmemory.%E2%80%9D) : 
 
 ##### 
 
