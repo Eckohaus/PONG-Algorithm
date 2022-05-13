@@ -2,7 +2,7 @@
 ###### Infinity complexes as a natural byproduct when defined within QCD. Generate sub-linear scattering. 
 
 #### Lambda Field Encoding : Implies that these sub-linear scatterings
-###### are, encoding channels bound to electrical resistance. Since we use scientific notation to define {space time}wave theorems. 
+###### Are encoding channels, bound to electrical resistance. Since we use scientific notation to define space and time, wave theorems. 
 ---
 ---
 ---
