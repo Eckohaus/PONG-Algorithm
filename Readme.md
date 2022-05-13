@@ -17,4 +17,4 @@
 ###### As time being equal to matter : Where all Nth defined dimensions are a quantization of Ohm's law. Depicting ( Muon Tau decay within the electro magnetic spectrum ) : I:E The observable universe.
 
 ###### Gauge invariance implies the movement of space only, not time.
-... See you in a hundred years.
+#### With current conjectures being beyond the descriptors of general relativity.
