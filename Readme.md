@@ -14,7 +14,6 @@
 ###### Repository Brief : Re:define a QCD Quantum computer compiler : Written in a FORM or type, of LANGUAGE. : 
 #### Kinematics for Space and Time : Via [Muon Tau Decay : Within Ohm's Law](https://www.sciencedirect.com/topics/mathematics/caputo-derivative#:~:text=The%20Caputo%20derivative%20is%20of,equation%20as%20having%20%E2%80%9Cmemory.%E2%80%9D) : Would describe a classical system. 
 
-###### Integrating the planar of {Time} becomes highly abstracted. As time itself is equal to matter.
-###### All other Nth defined dimensions are a quantization of Ohm's law which describes ( Muon Tau decay within the electro magnetic spectrum ) : I:E The observable universe.
+###### As time being equal to matter : Where all Nth defined dimensions are a quantization of Ohm's law. Depicting ( Muon Tau decay within the electro magnetic spectrum ) : I:E The observable universe.
 
 ###### Gauge invariance implies the movement of space only, not time.
