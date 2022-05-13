@@ -20,3 +20,6 @@
 ###### EXAMPLE : 
     
     ####   input_dims=(2, 2, 2), output_dims=(2, 2, 2))
+
+
+###### W.R.I-T.T.E.N_In_P.O.I.S.S.O.N : Theorem
