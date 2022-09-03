@@ -6,7 +6,7 @@
 ---
 ###### A current Reference : [IBM : CLassical Computer Version](https://qiskit.org/documentation/tutorials/circuits/1_getting_started_with_qiskit.html) 
 ###### PONG Algorithm for: { Lambda_Field : Point_to_Point_Calculations }
-###### W.R.I-T.T.E.N_In_P.O.I.S.S.O.N : [Theorem](https://arxiv.org/pdf/1607.06016.pdf) : 
+###### W.R.I.T.T.E.N_I.N_P.O.I.S.S.O.N : [Theorem](https://arxiv.org/pdf/1607.06016.pdf) : 
 ###### EXAMPLE : 
     
     ####   input_dimension =(2, 2, 2), output_dimension =(2, 2, 2))
