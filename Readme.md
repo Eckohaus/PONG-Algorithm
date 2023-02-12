@@ -5,7 +5,7 @@
 ###### Are encoding channels, bound to electrical resistance. Since we use scientific notation to define space and time, wave theorems. 
 ---
 ###### PONG Algorithm for: { Lambda_Field : Point_to_Point_Calculations }
-###### W.R.I.T.T.E.N_I.N_P.O.I.S.S.O.N : [Theorem](https://arxiv.org/pdf/1607.06016.pdf) : 
+###### W.R.I.T.T.E.N_I.N_P.O.I.S.S.O.N : [Theorem](https://en.m.wikipedia.org/wiki/Poisson%27s_equation) : 
 ###### EXAMPLE : 
     
        input_dimension = 2, 2, 2, output_dimension = 2, 2, 2
